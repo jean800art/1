@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "Guid": "bb8e22d9-5ea9-40b7-a85b-d71a035a76e2",
+  "Name": "E/AT-12 Health 3000 Ammo 300",
+  "Description": "Requires Bingus Shared Loader v15 or newer / API 1. Enable both and deploy.",
+  "Options": [
+    {
+      "Name": "E/AT-12 Health 3000 Ammo 300",
+      "Description": "Requires Bingus Shared Loader v15 or newer / API 1. Enable both and deploy.",
+      "Include": [
+        "Addon"
+      ]
+    }
+  ]
+}

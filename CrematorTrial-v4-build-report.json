@@ -1,0 +1,22 @@
+{
+  "game_sha256": "F5FEE03DCFDB2E553A4752C283590950AC13316B376D8196AA556FF0400D5F06",
+  "live_sample_bytes_equal_to_reference": 16304,
+  "updated_game_capture_bytes_validated": 569516,
+  "resource_name": "mods/lequla/cremator_trial_v1",
+  "resource_hash": "FC5A1550820373E7",
+  "package_sha256": "661C40F30F121CF8CE95E27B434F0AF26E91E3AB15B86BE4EE15E53F2133F048",
+  "source_sha256": "6492A7EA60084DF510E84344CE7922D9D5D804BBFCCB0CED8FC7544162C7299F",
+  "reference_sources": [
+    "https://github.com/xypwn/filediver/blob/master/datalibrary/generated_entities.dl_bin.gz",
+    "https://github.com/xypwn/filediver/blob/master/datalibrary/dl_library.dl_typelib",
+    "https://github.com/xypwn/filediver/blob/master/datalibrary/weapon_data_component.go",
+    "https://github.com/xypwn/filediver/blob/master/datalibrary/deposit_component.go",
+    "https://github.com/xypwn/filediver/blob/master/datalibrary/weapon_magazine_component.go"
+  ],
+  "reference_sha256": {
+    "generated_entities.dl_bin.gz": "5F1F54C39D51DDEBDD8611B86701E038CDD9AE1821E03D67CA988962A03D19C7",
+    "dl_library.dl_typelib": "4D04870D0A0D4DC1284998C72CDFA6F8FF6D21ABA0E36B6F758C6F73DD0417A4"
+  },
+  "archive_readback": "PASS resource hash, version, source bytes, byte-identical roundtrip",
+  "deployment_status": "packaged only; not installed; playable runtime not yet game-tested"
+}

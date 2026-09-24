@@ -1,0 +1,24 @@
+{
+  "game_executable_sha256": "D8E23968D1412B07E06785321727D63EDF74E711214D6F6ADEB3BFCA95CA6827",
+  "resource": "mods/lequla/ate_health_ammo",
+  "resource_hash": "868D5C8B15C142DD",
+  "package_sha256": "D450E8040CA8BB34BB23F602F89BB779FF414CD8AE7F42FCE8A14C8129B3B483",
+  "source_sha256": "48EC1171E7539177B3195D23E1D1E0316DADC4F58E9C13E3ACEFF0C9C5D22153",
+  "targets": {
+    "health": {
+      "from": 300,
+      "to": 3000
+    },
+    "magazine_capacity": {
+      "from": 30,
+      "to": 300
+    }
+  },
+  "unchanged": [
+    "rate of fire",
+    "fire mode",
+    "magazine refill fields"
+  ],
+  "validation": "archive round-trip, manifest GUID, and entry source readback passed",
+  "deployment": "package only; not installed or runtime tested"
+}
